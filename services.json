@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Web Design",
+    "image": "https://example.com/web_design.jpg"
+  },
+  {
+    "name": "Mobile App Development",
+    "image": "https://example.com/mobile_app_dev.jpg"
+  },
+  {
+    "name": "Graphic Design",
+    "image": "https://example.com/graphic_design.jpg"
+  }
+]
